@@ -7,7 +7,8 @@
 
 🚀 Aspiring DevOps Engineer | AWS Cloud Enthusiast | Full-Stack Web Developer in progress  
 
-![banner](https://github.com/user-attachments/assets/e1c64a81-2bf4-483c-9c9c-14dcc6adf262)
+<img width="2003" height="529" alt="image" src="https://github.com/user-attachments/assets/d8aa01ba-1e13-4ce3-9838-f1a25ec3e90e" />
+
 
 [Profile Banner](https://img.shields.io/badge/Status-Actively_Learning-brightgreen) ![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)  
 
@@ -68,7 +69,7 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](www.linkedin.com/in/shashank-kanade25)]
-[![Gmail] (shashankkanade07@gmail.com)]
+[![Gmail](shashankkanade07@gmail.com)]
 ---
 
 ## ⚡ Fun Fact
