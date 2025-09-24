@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **shashankkanade25/shashankkanade25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Hi, I'm Shashank Kanade
