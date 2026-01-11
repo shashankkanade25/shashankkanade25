@@ -24,29 +24,31 @@ I'm Shashank Kanade
 ### 🌐 Web Development
 - HTML5 | CSS3 | JavaScript | React (learning) | Node.js | Express.js
 - MySQL | MongoDB
-- Frontend project for e-grocery & farm products platform
+- Full-stack project for e-grocery & farm products platform (KRISHI-SETU)
 
 ### ☁️ Cloud & DevOps
 - Knowledge about AWS cloud Services
 - Linux & Shell Scripting
 - Git & GitHub
-- willing to learn Docker | Jenkins | Kubernetes | AWS | Ansible | Terraform | Grafana
+- Docker | Jenkins | AWS |
+- willing to learn  Kubernetes | Ansible | Terraform | Grafana
 
 ### 🛠 Tools & Platforms
-- VS Code | WSL2 | GitHub Actions
+- VS Code | WSL2 | GitHub Actions | CI/CD
 
 ---
 
 ## 📂 Projects
-### 1️⃣ Shell Script Clock ⏱️
-- Linux shell script project to display system uptime, last logins, and notifications.
-- Learnings: Shell scripting, automation, ACL permissions.
-
-### 2️⃣ E-Grocery & Farm Products Platform 🥕
-- Frontend-only project using Tilda.
+### 1️⃣ KRISHI-SETU :E-Grocery & Farm Products Platform 🥕
+- Full-stack web application using node.js, Express.js , MongoDB
 - Goal: Eliminate middlemen and connect farmers directly with customers.
 - Research paper published on the project.
 
+### 2️⃣ Shell Script Clock ⏱️
+- Linux shell script project to display system uptime, last logins, and notifications.
+- Learnings: Shell scripting, automation, ACL permissions.
+
+### 
 ### 3️⃣ Cloud & DevOps Projects ☁️
 - Goal: Build resume-ready cloud and DevOps portfolio.
 
@@ -65,9 +67,10 @@ I'm Shashank Kanade
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](www.linkedin.com/in/shashank-kanade25)]
-[![Gmail](shashankkanade07@gmail.com)]
+  [![LinkedIn](www.linkedin.com/in/shashank-kanade25)]
+   [![Gmail](shashankkanade07@gmail.com)]
 ---
+
 
 ## ⚡ Fun Fact
 > “I turn ☕ coffee into code 💻 and ideas into projects 🚀”
