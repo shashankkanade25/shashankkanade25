@@ -3,7 +3,7 @@
 ### ☁️ Cloud Engineer | ⚙️ DevOps Enthusiast | ☸️ Kubernetes Learner | 📈 Future SRE
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" alt="Banner">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE1r__Qji2miw/profile-displaybackgroundimage-shrink_350_1400/B4EZl7Ww8LIkAY-/0/1758711192834?e=1784160000&v=beta&t=ImZFTdYgrogrB-z3uQWpBZvSN9P_b6vYNOm-4qZDHPE" alt="Banner">
 </p>
 
 <p align="center">
@@ -122,6 +122,8 @@ AI-Powered Operations (AIOps)
 
 Kubernetes • Python • Docker • Gemini AI • Prometheus • RBAC • PVC • Observability
 
+GitHub : https://github.com/shashankkanade25/Sanjeevani.git
+
 ### What It Does
 
 Detects Kubernetes workload failures, collects logs automatically, performs AI-driven Root Cause Analysis using Gemini, stores incident reports, and executes self-healing actions to recover workloads.
@@ -171,6 +173,10 @@ Transform Sanjeevani into a production-ready DevOps platform that teams can depl
 
 Node.js • Express.js • MongoDB • Docker • Kubernetes • AWS
 
+Live : https://krishisetu.duckdns.org/
+
+GitHub : https://github.com/shashankkanade25/Krishi-Setu.git
+
 ### Highlights
 
 ✅ Direct Farmer-to-Customer Commerce
@@ -193,6 +199,10 @@ Node.js • Express.js • MongoDB • Docker • Kubernetes • AWS
 
 React.js • Node.js • MongoDB • Firebase • AWS S3
 
+Live : https://sevasetu-frontend.s3-website-us-east-1.amazonaws.com/
+
+GitHub : https://github.com/shashankkanade25/Sevasetu.git
+
 ### Highlights
 
 ✅ NGO Analytics Dashboard
@@ -212,6 +222,10 @@ React.js • Node.js • MongoDB • Firebase • AWS S3
 ### Tech Stack
 
 Node.js • Express.js • MongoDB • JWT • Cloudinary
+
+Live : https://mydrive-4oc3.onrender.com/
+
+GitHub : https://github.com/shashankkanade25/MyDrive.git
 
 ### Highlights
 
