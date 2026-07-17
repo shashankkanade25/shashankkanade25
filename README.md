@@ -1,9 +1,12 @@
-# Hi, I'm Shashank Kanade 👋
+# HEYY, I'm Shashank Kanade 👋
 
-### ☁️ Cloud Engineer | ⚙️ DevOps Enthusiast | ☸️ Kubernetes Learner | 📈 Future SRE
+### ☁️ AWS Cloud | ⚙️ DevOps | 🌐 Full-Stack Development | 📈 SRE
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE1r__Qji2miw/profile-displaybackgroundimage-shrink_350_1400/B4EZl7Ww8LIkAY-/0/1758711192834?e=1784160000&v=beta&t=ImZFTdYgrogrB-z3uQWpBZvSN9P_b6vYNOm-4qZDHPE" alt="Banner">
+<img width="1400" height="349" alt="banner Linkedin" src="https://github.com/user-attachments/assets/40257c0b-41c5-4de3-a9c5-a5aa801fcc17" />
+
+
+
 </p>
 
 <p align="center">
@@ -36,19 +39,16 @@ Currently working towards becoming a Cloud & Site Reliability Engineer capable o
 
 # 🏆 Achievements
 
-🥇 University Rank 1 in Engineering Physics (100/100)
-
-🏅 University Rank 6 in Engineering Mathematics-I (95/100)
-
-📄 Published Research Paper:
-**"Digital Agriculture in Action: Krishi-Setu" (IJCRT 2025)**
-
-☁️ AWS Cloud Practitioner Essentials
-
-🚀 Built an AI-Powered Kubernetes Self-Healing Platform
-
-🎓 DevOps Intern @ Codtech IT Solutions
-
+- 🥇 **University Rank 1** in Engineering Physics *(100/100)*
+- 🏅 **University Rank 6** in Engineering Mathematics-I *(95/100)*
+- 🥈 **2nd Runner-Up** — BackForge Hackathon
+- 🚀 Built **20+ real-world DevOps projects** showcasing CI/CD, Kubernetes, Docker, Terraform, AWS, GitOps, Monitoring, and Automation
+- 🤖 Developed an **AI-Powered Kubernetes Self-Healing Platform** for automated failure detection and recovery
+- 🌾 Built **KrishiSetu**, a production-style Full Stack Agri-Commerce Platform with **DevSecOps, GitOps, Kubernetes, and CI/CD**
+- 📄 Published research paper: **"Digital Agriculture in Action: Krishi-Setu"** *(IJCRT 2025)*
+- ☁️ Successfully completed **AWS Cloud Practitioner Essentials**
+- 🔧 Hands-on experience with **production-grade DevOps tools**, deployment automation, monitoring, logging, security, and real-world troubleshooting
+- 💼 **DevOps Intern** @ **Codtech IT Solutions**
 ---
 
 # ⚡ Tech Stack
@@ -96,182 +96,189 @@ Currently working towards becoming a Cloud & Site Reliability Engineer capable o
 </p>
 
 ---
-
-# 🧠 Areas of Interest
-
-```text
-Cloud Infrastructure
-Containerization
-Kubernetes
-CI/CD Pipelines
-Monitoring & Observability
-Site Reliability Engineering
-Infrastructure Automation
-Incident Management
-Platform Engineering
-AI-Powered Operations (AIOps)
-```
-
----
-
 # 🚀 Featured Projects
 
-## 🤖 Sanjeevani — AI-Powered Self-Healing Kubernetes Platform
+---
 
-### Tech Stack
+## 🤖 Sanjeevani
 
-Kubernetes • Python • Docker • Gemini AI • Prometheus • RBAC • PVC • Observability
+### *AI-Powered Kubernetes Self-Healing Platform*
 
-GitHub : https://github.com/shashankkanade25/Sanjeevani.git
+> **An autonomous Kubernetes platform that detects failures, performs AI-driven Root Cause Analysis using Gemini, and automatically restores workloads without manual intervention.**
 
-### What It Does
+<p align="left">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-AI-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</p>
 
-Detects Kubernetes workload failures, collects logs automatically, performs AI-driven Root Cause Analysis using Gemini, stores incident reports, and executes self-healing actions to recover workloads.
+### ✨ Key Features
 
-### Key Features
-
-✅ Automated Failure Detection
-
-✅ Kubernetes Log Collection
-
-✅ AI-Based Root Cause Analysis
-
-✅ Persistent Incident Reporting
-
-✅ Automated Deployment Recovery
-
-✅ Self-Healing Workflows
-
-### Workflow
+|    |                             |
+| :- | :-------------------------- |
+| 🚨 | Automated Failure Detection |
+| 📜 | Kubernetes Log Collection   |
+| 🧠 | AI Root Cause Analysis      |
+| 📄 | Incident Report Generation  |
+| 💾 | Persistent Report Storage   |
+| ♻️ | Automated Self-Healing      |
+| 📊 | Monitoring & Observability  |
 
 ```text
-Application Failure
-        ↓
-Kubernetes Detects Failure
-        ↓
-Log Collection
-        ↓
-Gemini AI RCA
-        ↓
-Incident Report Generation
-        ↓
-Persistent Storage
-        ↓
-Automated Recovery
+Failure
+    │
+    ▼
+Detect
+    │
+    ▼
+Collect Logs
+    │
+    ▼
+Gemini AI
+    │
+    ▼
+Generate RCA
+    │
+    ▼
+Recover Workload
 ```
 
-🔗 GitHub: https://github.com/shashankkanade25/Sanjeevani
+<p>
+<a href="https://github.com/shashankkanade25/Sanjeevani">
+<img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-🚧 Future Goal:
-Transform Sanjeevani into a production-ready DevOps platform that teams can deploy on their Kubernetes clusters for automated incident management and self-healing.
-
----
-
-## 🌾 KrishiSetu — Farmer-to-Customer Marketplace
-
-### Tech Stack
-
-Node.js • Express.js • MongoDB • Docker • Kubernetes • AWS
-
-Live : https://krishisetu.duckdns.org/
-
-GitHub : https://github.com/shashankkanade25/Krishi-Setu.git
-
-### Highlights
-
-✅ Direct Farmer-to-Customer Commerce
-
-✅ Role-Based Authentication
-
-✅ Product & Order Management
-
-✅ REST API Architecture
-
-✅ Containerized Deployment
-
-📄 Research Paper Published (IJCRT)
+> 💡 **Vision:** Build a production-ready autonomous incident management platform for Kubernetes.
 
 ---
 
-## 🌍 SevaSetu — NGO Analytics & Volunteer Allocation Platform
+## 🌾 KrishiSetu
 
-### Tech Stack
+### *Production-Grade Agri-Commerce Platform*
 
-React.js • Node.js • MongoDB • Firebase • AWS S3
+> **A cloud-native marketplace connecting farmers directly with customers using modern DevOps, Kubernetes, and AWS infrastructure.**
 
-Live : https://sevasetu-frontend.s3-website-us-east-1.amazonaws.com/
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+</p>
 
-GitHub : https://github.com/shashankkanade25/Sevasetu.git
+### 🌟 Highlights
 
-### Highlights
+| Feature                    | Status |
+| :------------------------- | :----: |
+| Farmer & custome Marketplace         |    ✅   |
+| DevSecOps Practices(SonarQube, Trivy)|    ✅   |
+| GitOps Automation          |    ✅   |
+| Jenkins CI Pipeline Automation   |    ✅   |
+| Argo CD Synchronization              |    ✅   |
+| Published Research (IJCRT) |   📄   |
 
-✅ NGO Analytics Dashboard
+<p>
+<a href="https://krishisetu.duckdns.org">
+<img src="https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=googlechrome"/>
+</a>
 
-✅ Volunteer Matching Engine
-
-✅ Google Maps Integration
-
-✅ Firebase Authentication
-
-✅ Real-Time Issue Tracking
-
----
-
-## ☁️ MyDrive — Secure Cloud File Management Platform
-
-### Tech Stack
-
-Node.js • Express.js • MongoDB • JWT • Cloudinary
-
-Live : https://mydrive-4oc3.onrender.com/
-
-GitHub : https://github.com/shashankkanade25/MyDrive.git
-
-### Highlights
-
-✅ Secure Authentication
-
-✅ File Upload & Management
-
-✅ Cloud Storage Integration
-
-✅ Access Control
+<a href="https://github.com/shashankkanade25/Krishi-Setu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-## 💬 Chat Application Deployment
+## 🌍 SevaSetu
 
-### Tech Stack
+### *NGO Analytics & Volunteer Platform*
 
-Node.js • MongoDB • Docker Compose • AWS EC2
+> **A cloud-based platform helping NGOs manage volunteers, analytics, and community operations efficiently.**
 
-### Highlights
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws"/>
+</p>
 
-✅ Multi-Container Deployment
+### 🚀 Features
 
-✅ Persistent Volumes
+* 📊 NGO Analytics Dashboard
+* 🤝 Volunteer Allocation Engine
+* 🗺️ Google Maps Integration
+* 🔥 Firebase Authentication
+* 📈 Real-Time Issue Tracking
 
-✅ Cloud Deployment
+<p>
+<a href="https://sevasetu-frontend.s3-website-us-east-1.amazonaws.com">
+<img src="https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge"/>
+</a>
 
-✅ Linux Administration
+<a href="https://github.com/shashankkanade25/Sevasetu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-## 📝 Quiz Application Deployment
+## ☁️ MyDrive
 
-### Tech Stack
+### *Secure Cloud Storage Platform*
 
-React.js • Docker • Nginx • AWS EC2
+> **A secure cloud file management system with authentication, cloud storage integration, and role-based access.**
 
-### Highlights
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+</p>
 
-✅ Multi-Stage Docker Builds
+### ✨ Features
 
-✅ Production Nginx Deployment
+* 🔐 Secure Authentication
+* ☁️ Cloud Storage
+* 📁 File Upload
+* 🛡️ Access Control
 
-✅ Optimized Container Images
+<p>
+<a href="https://mydrive-4oc3.onrender.com">
+<img src="https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge"/>
+</a>
 
-✅ Containerized Hosting
+<a href="https://github.com/shashankkanade25/MyDrive">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## ⚙️ Infrastructure Projects
+
+| Project                            | Stack                              | Highlights                                                           |
+| :--------------------------------- | :--------------------------------- | :------------------------------------------------------------------- |
+| 💬 **Chat Application Deployment** | Docker Compose • MongoDB • AWS EC2 | Multi-container deployment, Linux administration, Persistent volumes |
+| 📝 **Quiz Application Deployment** | Docker • React • Nginx • AWS EC2   | Multi-stage builds, Production Nginx, Optimized images               |
+
+---
+
+<div align="center">
+
+### 🌟 Explore More
+
+**20+ Production-Grade DevOps • Kubernetes • AWS • Cloud Native • Full Stack Projects**
+
+<a href="https://github.com/shashankkanade25?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
@@ -293,15 +300,6 @@ React.js • Docker • Nginx • AWS EC2
 
 ---
 
-# 🌱 Currently Learning
-
-* ArgoCD & GitOps
-* Platform Engineering
-* Site Reliability Engineering
-* Cloud Architecture Patterns
-
----
-
 # 🎯 Long-Term Vision
 
 My goal is to become a Cloud & DevOps Engineer specializing in Kubernetes, Reliability Engineering, Automation, and Cloud-Native Infrastructure.
@@ -316,22 +314,34 @@ Long-term, I aim to build products and platforms that help engineering teams:
 
 ---
 
-# 📫 Connect With Me
+<h2 align="center">🌍 Let's Connect</h2>
 
-### LinkedIn
+<p align="center">
+<a href="https://github.com/shashankkanade25">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shashank-kanade25">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:shashankkanade07@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+</p>
 
-🔗 https://www.linkedin.com/in/shashank-kanade25
-
-### GitHub
-
-🔗 https://github.com/shashankkanade25
-
-### Email
-
-📧 [shashankkanade07@gmail.com](mailto:shashankkanade07@gmail.com)
+<p align="center">
+<a href="https://github.com/shashankkanade25"><b>GitHub</b></a> •
+<a href="https://www.linkedin.com/in/shashank-kanade25"><b>LinkedIn</b></a> •
+<a href="mailto:shashankkanade07@gmail.com"><b>Email</b></a>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+<h2 align="center">⚡ Fun Fact</h2>
 
-> I enjoy building systems that not only work — but can automatically recover when they break.
+<p align="center">
+<i>
+"I love building resilient software that heals itself when failures happen."
+</i>
+</p>
